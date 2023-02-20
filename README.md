@@ -25,5 +25,5 @@ bashllm <command description>
 Example:
 ```
 >>> bashllm "search for all open ports on ip"
-echo "sudo nmap <ip addr>"
+sudo nmap <ip addr>
 ```
