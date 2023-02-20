@@ -22,7 +22,7 @@ cd ./bashllm && make
 bashllm <command description>
 ```
 
-Example:
+## Example
 ```
 >>> bashllm "search for all open ports on ip"
 sudo nmap <ip addr>
