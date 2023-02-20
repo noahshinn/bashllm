@@ -1,4 +1,4 @@
-# bashllm
+# BashLLM
 
 ## Requirements
 `rust`
