@@ -12,7 +12,7 @@ git clone https://github.com/noahshinn024/bashllm
 
 Run `make`:
 ```
-cd bashllm && make
+cd ./bashllm && make
 ```
 
 ## To Run
