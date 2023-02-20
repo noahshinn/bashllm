@@ -1,4 +1,5 @@
 # BashLLM
+Faster search for shell commands.
 
 ## Requirements
 `rust`
@@ -23,6 +24,6 @@ bashllm <command description>
 
 Example:
 ```
->>> bashllm "a command that echoes something"
-echo "hello world"
+>>> bashllm "search for all open ports on ip"
+echo "sudo nmap <ip addr>"
 ```
