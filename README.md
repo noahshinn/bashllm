@@ -22,8 +22,13 @@ cd ./bashllm && make
 bashllm <command description>
 ```
 
-## Example
+## Examples
 ```
 >>> bashllm "search for all open ports on ip"
 sudo nmap <ip addr>
+```
+
+```
+>>> bashllm "i use zsh, read from ~/.zsh_history give me the 10 most used commands"
+cat ~/.zsh_history | sort | uniq -c | sort -nr | head -10
 ```
