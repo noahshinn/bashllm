@@ -8,7 +8,7 @@ Faster search for shell commands.
 
 Clone this repo:
 ```
-git clone https://github.com/noahshinn024/bashllm
+git clone https://github.com/noahshinn/bashllm
 ```
 
 Run `make`:
